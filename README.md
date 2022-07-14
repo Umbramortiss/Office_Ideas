@@ -1,2 +1,2 @@
-# Office_Pranks
-Harmless office pranks
+# Office_Fun
+Making office life easier
