@@ -1,0 +1,9 @@
+https://www.w3schools.com/html/html_forms.asp
+https://go.dev/doc/tutorial/database-access
+https://www.geeksforgeeks.org/golang/?ref=lbp
+https://www.w3schools.com/sql/sql_datatypes.asp
+https://zetcode.com/golang/file/
+https://stackoverflow.com/questions/38654383/how-to-search-for-an-element-in-a-golang-slice
+https://zetcode.com/golang/embed/
+https://dev.to/envitab/generate-strong-and-secure-passwords-with-go-a-step-by-step-guide-4p62
+https://devolutions.net/remote-desktop-manager/

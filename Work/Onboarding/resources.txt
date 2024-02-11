@@ -1,0 +1,4 @@
+https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/outlook
+https://www.alitajran.com/connect-to-azure-ad-powershell/
+https://learn.microsoft.com/en-us/windows/configuration/configure-windows-10-taskbar
+https://learn.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps
